@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://ceb0hufugpmhf"
+path="res://.godot/imported/Midnight.mp3-a2f99230e65e8cf4af6e5bd9e6d5d0a6.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/bgm/Lo-Fi Soundtrack Pack/Midnight.mp3"
+dest_files=["res://.godot/imported/Midnight.mp3-a2f99230e65e8cf4af6e5bd9e6d5d0a6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

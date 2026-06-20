@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://hggsx51g4hye"
+path="res://.godot/imported/Vibe.mp3-6a12aac2f2fdeb808928b7f68b7d8d9c.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/bgm/Lo-Fi Soundtrack Pack/Vibe.mp3"
+dest_files=["res://.godot/imported/Vibe.mp3-6a12aac2f2fdeb808928b7f68b7d8d9c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

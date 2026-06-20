@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cxuvx67hjnitm"
+path="res://.godot/imported/Pixel.mp3-ca7f3318dfbb773769e67437ae587780.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/bgm/Lo-Fi Soundtrack Pack/Pixel.mp3"
+dest_files=["res://.godot/imported/Pixel.mp3-ca7f3318dfbb773769e67437ae587780.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

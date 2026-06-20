@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c767pswd11geh"
+path="res://.godot/imported/Underwater.mp3-7c2078a951cfa19243ccd0011fd29cc8.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/bgm/Lo-Fi Soundtrack Pack/Underwater.mp3"
+dest_files=["res://.godot/imported/Underwater.mp3-7c2078a951cfa19243ccd0011fd29cc8.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

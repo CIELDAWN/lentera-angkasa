@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cpurjd2u0nldu"
+path="res://.godot/imported/Sunset.mp3-1603df3dc496cfae7a1b49c5407c0279.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/bgm/Lo-Fi Soundtrack Pack/Sunset.mp3"
+dest_files=["res://.godot/imported/Sunset.mp3-1603df3dc496cfae7a1b49c5407c0279.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

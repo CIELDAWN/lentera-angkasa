@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cbtyo4lp7yj1v"
+path="res://.godot/imported/Ambience.mp3-2864d2d2220889d071a3b867bc86d922.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/bgm/Lo-Fi Soundtrack Pack/Ambience.mp3"
+dest_files=["res://.godot/imported/Ambience.mp3-2864d2d2220889d071a3b867bc86d922.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

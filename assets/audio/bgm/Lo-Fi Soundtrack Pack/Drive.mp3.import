@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cwr25d685hwh1"
+path="res://.godot/imported/Drive.mp3-d393b6a0a84f8d6a7bff1f4cc015a5e4.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/bgm/Lo-Fi Soundtrack Pack/Drive.mp3"
+dest_files=["res://.godot/imported/Drive.mp3-d393b6a0a84f8d6a7bff1f4cc015a5e4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

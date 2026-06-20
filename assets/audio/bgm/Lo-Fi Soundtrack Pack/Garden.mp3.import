@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cj7noy5g6iy5u"
+path="res://.godot/imported/Garden.mp3-1fc2e07567b4dfdfa8bcfa4e117c9ec0.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/bgm/Lo-Fi Soundtrack Pack/Garden.mp3"
+dest_files=["res://.godot/imported/Garden.mp3-1fc2e07567b4dfdfa8bcfa4e117c9ec0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

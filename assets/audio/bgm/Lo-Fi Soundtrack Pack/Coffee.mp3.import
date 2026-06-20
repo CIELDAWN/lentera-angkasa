@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bd2am0cfn2voy"
+path="res://.godot/imported/Coffee.mp3-da7f4dae1c1f21923abd162e2cb8ae6e.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/bgm/Lo-Fi Soundtrack Pack/Coffee.mp3"
+dest_files=["res://.godot/imported/Coffee.mp3-da7f4dae1c1f21923abd162e2cb8ae6e.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
